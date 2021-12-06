@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment_recipes_list"
+        android:enabled="true"
+        android:icon="@drawable/ic_hate"
+        android:title="@string/recipes" />
+    <item
+        android:id="@+id/fragment_favorites_recipes_list"
+        android:enabled="true"
+        android:icon="@drawable/ic_heart"
+        android:title="@string/favorites" />
+
+</menu>
